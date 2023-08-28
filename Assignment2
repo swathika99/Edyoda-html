@@ -1,0 +1,232 @@
+<html>
+    <head>
+      <title>edyoda stories</title>
+    </head>
+
+    <body>
+      <div class="box">
+           <div class="header">
+               <div class="edstories">
+                  <div id="edyoda">EDYODA</div>
+                  <div id="stories">stories</div>
+               </div>
+                   <div id="ec">Explore Categories</div>
+          </div>
+             <div class="box2">
+                   <div id="sub1">Trending Posts</div>
+                   <div id="sub2">filter by category</div>
+                   <div class="button">
+                    <button>All</button>
+                    <button>Artificial Intelligent</button>
+                    <button>Cloud Computing</button>
+                    <button>DevOps</button>
+                    <button>Programming Language</button>
+                    <button>Mobile Application Development</button>
+                    <button>Technology and Tools</button>
+                    <button>Get a job in a Tech Company</button>
+                    <button>Others</button>
+                </div>
+                <div class="container">
+                    <div class="containers">
+                        <div class="image">
+                            <img src="https://edyoda.s3.amazonaws.com/media/blog-images/learn_machine_learning_courses_online.png" alt="">
+                            <h1>Introduction to a machine learning online course</h1>
+                            <span id="edyod">EDYODA</span>
+                            <span id="date">|24 Aug 2019</span>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                        </div>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/6.png" alt="">
+                        <h1>LAMP stack vs MERN stack</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/4.png" alt="">
+                        <h1>Impact of cloud computing in various industries</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/3.png" alt="">
+                        <h1>Challenges of machine learning</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/5.png" alt="">
+                        <h1>Breaking the Myth around Cybersecurity</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/7.png" alt="">
+                         <h1>Importance of data backup</h1>
+                         <span id="edyod">EDYODA</span>
+                         <span id="date">|24 Aug 2019</span>
+                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/automation-testing-an-overview-2.png" alt="">
+                        <h1>What is Web scraping?</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                     <div class="containers">
+                        <img src="https://edyoda.s3.amazonaws.com/media/blog-images/what_is_isa_blog_1.png" alt="">
+                        <h1>what is income share agreement?</h1>
+                        <span id="edyod">EDYODA</span>
+                        <span id="date">|24 Aug 2019</span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                    <div class="containers">
+                         <img src="https://edyoda.s3.amazonaws.com/media/blog-images/practical_machine_learning_1.png" alt="">
+                         <h1>Practical machine learning with python and keras</h1>
+                         <span id="edyod">EDYODA</span>
+                         <span id="date">|24 Aug 2019</span>
+                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque commodi dolorum quibusdam quia laudantium dolorem aperiam doloremque placeat quam, numquam quo facere modi tenetur ea aut dolor incidunt quaerat? Deserunt?</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="footer">
+
+            </footer>
+        </div>
+       
+    </body>
+    <style>
+        body{
+            background-color: #eaecf8;
+        }
+        .box{
+            width: 100vw;
+            height: max-content;
+        }
+        .header{
+            background-color: #fff;
+            padding: 16px 78px;
+            height: 50px;
+            display: flex;
+        }
+        .footer{
+            background-color: #172146;
+            padding: 80px 16%;
+            
+            
+
+        }
+        .edstories{
+            padding: 8px 20px;
+        }
+        #edyoda{
+            width: 130px;
+            font-size: 32px;
+            color: #0084ff;
+        }
+        #stories{
+            margin: 0;
+            font-weight: 500;
+            font-family: raleway;
+            font-style: italic;
+        }
+        #ec{
+            padding-left: 10px;
+            padding-top: 16px;
+            font-size: small;
+        }
+        .box2{
+            width: 70%;
+            height: max-content;
+            margin-left: 15%;
+
+        }
+        #sub1{
+            margin: 0;
+            color: #000;
+            font-weight: 600;
+            font-size: xx-large;
+        }
+        #sub2{
+            font-size: 16px;
+            font-weight: 600;
+            margin-left: 8px;
+        }
+        .button button{
+            padding:6px 14px;
+            color: #0084ff;
+            border-radius: 15px;
+            margin: 5px;
+            border: 1px solid #0084ff;
+            width: auto;
+            cursor: pointer;
+        }
+        .button button:hover{
+            background-color: #0084ff;
+            color: #fff;
+        }
+        .button{
+            padding-top:16px ;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .container{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .containers{
+            width: 31%;
+            height: 400px;
+            flex-wrap: wrap;
+            background-color: #fff;
+            
+
+        }
+        .containers img{
+            width: 100%;
+            height: 176px;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+        }
+        .container h1{
+            font-size: 18px;
+            text-align: left;
+            margin: 0%;
+            font-weight: 600;
+            padding: 10px 24px;
+        }
+        #edyod{
+            padding: 10px 0px 10px 24px;
+            color: #0096ff;
+            font-size: 14px;
+            font-style: italic;
+            font-weight: 500;
+        }
+        #date{
+            font-size: 14px;
+            font-weight: 300;
+        }
+        p{
+            font-size: 14px;
+            overflow: auto;
+            line-height: 1.43;
+            font-weight: 400;
+            padding: 10px 24px;
+            margin: 4px 0;
+
+        }
+        
+
+
+
+    </style>
+
+ 
+
+</html>
